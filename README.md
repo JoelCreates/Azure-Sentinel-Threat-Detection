@@ -67,23 +67,4 @@ Detect and investigate three simulated attacks using Microsoft Sentinel, then do
 6. Recover service and monitor
 7. Close with categorisation and tags
 
-## Mapping to Microsoft Applied Skills
-- **Investigate threats using Microsoft Sentinel**: This lab fulfils and goes beyond the badge scenario. After completion, add your badge link under “Badges” below.
 
-## Badges
-- Microsoft Applied Skill: Investigate threats using Microsoft Sentinel — _link to badge_
-
-## How to use this repo
-Populate the folders as you run the lab. Redact anything sensitive. Keep screenshots clear and labelled.
-
-## Create and push this repo to GitHub
-```bash
-# 1) Create new repo on GitHub named azure-sentinel-threat-detection (empty, no README)
-# 2) Initialise locally and push
-git init
-git add .
-git commit -m "Initial commit: Sentinel threat detection lab scaffold"
-git branch -M main
-git remote add origin https://github.com/<your-username>/azure-sentinel-threat-detection.git
-git push -u origin main
-```
